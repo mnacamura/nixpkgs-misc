@@ -22,7 +22,6 @@
       mgenplus
       newsreader
       shippori
-      vimPlugins
       xtermcolor
       ;
     };
